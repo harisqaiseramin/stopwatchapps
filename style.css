@@ -1,0 +1,28 @@
+h1
+{
+    color:red;
+    text-align: center;
+    background-color: royalblue;
+}
+h2
+{
+    text-align: center;
+    font-size: 80px;
+    display: inline;
+
+
+}
+button
+{
+    color: royalblue;
+    align-items: center;
+    display: inline;
+    text-align: center;
+    font-size: 23px;
+}
+body
+{
+    background-color: salmon;
+    text-align: center;
+    font-size: 23px;
+}
